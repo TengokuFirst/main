@@ -1,0 +1,14 @@
+.item-card img{border:0}
+.item-title,.item-title:hover{color:inherit;text-decoration:none}
+.about-block{justify-content:flex-start;padding:20px 24px}.about-block p{margin:8px 0 0;color:#bdc8dd}.friend-pic{object-fit:cover;border:0;border-radius:0}.friend{color:inherit;text-decoration:none;cursor:default}.friend:hover{text-decoration:none}.game-cover{object-fit:cover;border:0}.item-card,.item-card *,.friend,.friend *,.game,.game *,.profile-name,.description{cursor:default}
+.link-icon img{width:17px;height:17px;display:block;object-fit:contain}.link-icon{overflow:hidden}
+.item-card{background:#131313}
+.friend,.game{border-bottom:0}
+.about-block p{margin:0;font-size:14px;line-height:1.6}
+.mini-player{background:#000000}.player-cover{width:38px;height:38px;flex:0 0 38px;position:relative;border-radius:50%;overflow:hidden}.player-cover img{width:100%;height:100%;display:block;object-fit:cover}.player-cover .player-toggle{position:absolute;inset:0;width:38px;height:38px;background:#0006}
+.mini-player{width:270px;height:54px;margin-top:15px;padding:7px 10px;display:flex;align-items:center;gap:10px;background:#000000}.player-toggle{width:38px;height:38px;flex:0 0 38px;border:0;border-radius:50%;background:#26334e;color:#fff;font-size:15px;padding:0 0 0 2px}.player-info{min-width:0;flex:1;display:grid;grid-template-columns:1fr auto;grid-template-rows:auto auto;column-gap:8px;align-items:center}.player-info strong{grid-column:1/-1;font-size:12px;font-weight:600;margin-bottom:5px}.player-timeline{height:3px;background:#27334a;position:relative}.player-progress{position:absolute;inset:0 auto 0 0;width:0;background:#8fa5c7}.player-time{font-size:10px;color:#8e9bb3}.player-toggle,.player-timeline{cursor:pointer}
+.profile-head,.description,.cards,.item-card,.right-column{border:0}.cards{background:rgba(0,0,0,.72)}.item-card{background:#131313}.profile-actions a[href="https://github.com/"] .link-icon img{filter:brightness(0) invert(1)}
+.item-card,.link-row:hover{border-color:transparent}
+.link-row,.link-row:hover,.link-icon{border:0}
+.profile-head,.description,.cards,.item-card,.right-column{background:#000000}
+.item-card{background:#131313}
