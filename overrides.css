@@ -12,3 +12,16 @@
 .link-row,.link-row:hover,.link-icon{border:0}
 .profile-head,.description,.cards,.item-card,.right-column{background:#000000}
 .item-card{background:#131313}
+:root {
+    font-family: 'Inter', sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+}
+
+body,
+button,
+input,
+textarea {
+    font-family: inherit;
+}
